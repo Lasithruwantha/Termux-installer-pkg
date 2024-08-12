@@ -26,3 +26,6 @@ pkg install php
 pkg install nano
 ```
 <p>install the pkg termux </p>
+
+![!how to installer kali linux](https://github.com/Lasithruwantha/Termux-installer-pkg/tree/main/kali_linux_install)
+<p>you can install your android phone in kali linux </p>
